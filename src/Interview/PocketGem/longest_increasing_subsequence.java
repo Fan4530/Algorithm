@@ -17,13 +17,13 @@ public class longest_increasing_subsequence {
         }
         return size;
     }
-    
+    //find rhe first one that is larger than target
     public int binary_search(int[] refined, int target, int size) {
         int left = 0;
         int right = size;
         while(left < right) {
             int mid = left + (right - left) / 2;
-            if(refined[mid] < target) {
+            if(refined[mid] < target) {// if the target is larger, then remove
                 left = mid + 1;
             } else 
                 right = mid;

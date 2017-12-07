@@ -2,52 +2,37 @@ package Interview.PocketGem;
 
 public class in_order_successor {
 	// recursive inorder
-    public TreeNode inorderSuccessor_r(TreeNode root, TreeNode p) {
+    public TreeNode inorderSuccessor1(TreeNode root, TreeNode p) {
         if(root == null || p == null)
             return null;
-        if(root.val <= p.val) {
-            return inorderSuccessor_r(root.right, p);
-        } else {
-            TreeNode res = inorderSuccessor_r(root.left, p);
-            return res == null ? root : res;
+        // corner case: if p is the largest one, then the recursion will directly go to right,
+        // and let left = null, both left and root are null
+
+        //if root is larger, than go left(smaller)
+        // record the value, becasue it may be valid
+        // until it is null: not valid
+        if(root.val > p.val) {
+            TreeNode left = inorderSuccessor1(root.left, p);
+            return  left != null ? left : root;
         }
+        return inorderSuccessor1(root.right, p);
     }
+
     // iterative inorder
-    public TreeNode inorderSuccessor_i(TreeNode root, TreeNode p) {
+    public TreeNode inorderSuccessorIterative(TreeNode root, TreeNode p) {
         TreeNode res = null;
         while(root != null) {
-            if(root.val <= p.val)
-                root = root.right;
-            else {
-                res = root;
+            if(root.val > p.val) {
+                //update the res, when root first larger than root
+                res = (res == null || root.val < res.val) ? root : res;
                 root = root.left;
+            } else {
+                root = root.right;
             }
         }
         return res;
     }
-    // inorder without value without parents
-    TreeNode pre = null;
-    TreeNode res = null;
-    public void helper(TreeNode root, TreeNode p) {
-        if (root == null)
-            return;
-        helper(root.left, p);
-        if (pre != null) {
-            if (pre == p) {
-                res = root;
-            }
-        }
-        pre = root;
-        helper(root.right, p);
-    }
-    
-    public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
-        if (root == null || p == null)
-            return null;
-        helper(root, p);
-        return res;
-    }
-    
+
     //Time complexity: O(h) - h - height of the tree
     public TreeNode InorderSuccessor(TreeNode p) {
         if (p.right != null)
@@ -70,21 +55,26 @@ public class in_order_successor {
             node = node.left;
         return node;
     }
-          
 
 
-    // predecessor recursive
-    public TreeNode predecessor_r(TreeNode root, TreeNode p) {
-    	  if (root == null)
-    	    return null;
 
-    	  if (root.val >= p.val) {
-    	    return predecessor_r(root.left, p);
-    	  } else {
-    	    TreeNode right = predecessor_r(root.right, p);
-    	    return (right != null) ? right : root;
-    	  }
+    // recursive inorder
+    public TreeNode predecessor(TreeNode root, TreeNode p) {
+        if(root == null || p == null)
+            return null;
+        // corner case: if p is the largest one, then the recursion will directly go to right,
+        // and let left = null, both left and root are null
+
+        //if root is larger, than go left(smaller)
+        // record the value, becasue it may be valid
+        // until it is null: not valid
+        if(root.val < p.val) {
+            TreeNode res = inorderSuccessor1(root.right, p);
+            return  res != null ? res : root;
+        }
+        return inorderSuccessor1(root.left, p);
     }
+
     // predecessor iterative
     public TreeNode inorderPre_i(TreeNode root, TreeNode p) {
         TreeNode res = null;
@@ -121,4 +111,28 @@ public class in_order_successor {
     	TreeNode res = i.InorderSuccessor(root.left.right);
     	System.out.println(res.val);
     }
+
+    public String reverseWords(String s) {
+        // the sky is blue
+        // if is '' or len, then reverse left, i - 1,
+        char [] array = s.toCharArray();
+        reverse(array, 0, array.length - 1);
+
+        int left = 0;
+        for(int i = 0; i <= array.length; i ++) {
+            if(i == array.length || array[i] == ' ') {
+                reverse(array, left, i - 1);
+                left = i + 1;
+            }
+        }
+        return new String(array);
+    }
+    private void reverse(char [] array, int left, int right) {
+        while(left <= right) {
+            char tmp = array[left];
+            array[left++] = array[right];
+            array[right--] = tmp;
+        }
+    }
+
 }

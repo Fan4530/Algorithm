@@ -3,8 +3,10 @@ package Interview.Linkedin;
 import java.util.*;
 
 public class Intersection {
-	//assumption: sorted or non sorted??
-	//method 1: two hashSet  used to non sorted
+	//assumption: sorted or non sorted?? prefer optimized space or time.
+    //assumption: no duplicate
+	//method 1: two hashSet  used for non sorted, (if have duplicate use hashmap)
+    //time complexity: O(n)
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set = new HashSet<>();
         Set<Integer> intersect = new HashSet<>();
@@ -23,8 +25,8 @@ public class Intersection {
         }
         return result;
     }
-
-    //method 2: if sorted this one is better
+    //method 2: if sorted this one is better,
+    //assumption: for sorted, prefer space optimized, or non-duplicate
         public int[] intersection2(int[] nums1, int[] nums2) {
         Set<Integer> set = new HashSet<>();
         Arrays.sort(nums1);// if sorted ,remove these two lines
@@ -102,6 +104,7 @@ public class Intersection {
 //	If both nums1 and nums2 are so huge that neither fit into the memory, 【sort them individually (external sort)】, then read 2 elements from each array at a time in memory, record intersections.
 
     //Union: similar to two pointers of intersection, can deal with duplicate
+    // time : O(n logn)
     public int[] union(int[] nums1, int[] nums2) {
         List<Integer> set = new ArrayList<>();
         Arrays.sort(nums1);// if sorted ,remove these two lines

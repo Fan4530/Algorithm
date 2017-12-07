@@ -166,7 +166,7 @@ public class BackTracking {
         System.out.println(sol.multipleItemValue(new int[]{2,3}, new int[]{1,2}, 5));
         System.out.println(sol.multipleItemValue(new int[]{2,3,5}, new int[]{2,3,10}, 5));
         System.out.println(sol.multipleItemValue(new int[]{}, new int[]{}, 5));
-        System.out.println(sol.multipleItemValue(new int[]{2,3,4}, new int[]{1,2,3}, 5));
+        System.out.println(sol.multipleItemValue(new int[]{2,3,4}, new int[]{3,2,3}, 4));
         System.out.println(sol.multipleItemValue(new int[]{1}, new int[]{2}, 5));
 
 

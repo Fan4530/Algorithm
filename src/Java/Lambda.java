@@ -10,6 +10,15 @@ import java.util.PriorityQueue;
  */
 public class Lambda {
     public static void main(String [] args) {
+//        PriorityQueue<Integer> heap = new PriorityQueue<>(11, (i1, i2) -> Integer.compare(i2, i1));
+//        heap.offer(1);
+//        heap.offer(2);
+//        System.out.println(heap.poll());
+        System.out.println("ab".compareTo("c"));
+        //1  2
+        //2  1
+
+
         // initializing unsorted short array
         Short sArr[] = new Short[]{3, 13, 1, 9, 21};
 

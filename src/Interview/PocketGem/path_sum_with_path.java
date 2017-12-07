@@ -27,7 +27,7 @@ public class path_sum_with_path {
         //1
         // \
         //  2
-        //  
+        //
         if (left == null || (right != null && right.sum > left.sum)) {
             right.sum = right.sum + root.val;
             right.list.add(root);

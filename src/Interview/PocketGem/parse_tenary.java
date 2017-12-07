@@ -7,6 +7,7 @@ public class parse_tenary {
         inorder(root);
     }
     // a?(b?d:e):(c)
+    // time : height O(n), two branches, O(2^n)
     public static TreeNode build(String s) {
         if (s.length() == 0) return null;
         int index1 = s.indexOf('?'), index2 = s.lastIndexOf(':');
@@ -17,6 +18,11 @@ public class parse_tenary {
         root.right = build(s.substring(index2 + 1));
         return root;
     }
+
+
+
+
+
     public static void inorder(TreeNode root) {
         if (root == null) return;
         System.out.print(root.val + " ");

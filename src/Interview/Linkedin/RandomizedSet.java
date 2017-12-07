@@ -41,6 +41,20 @@ public class RandomizedSet {
         list.add(val);
         return true;
     }
+    //    ArrayList           1       4       2       3      | 2
+    //                                        idx             last = 2
+
+
+    //    HashMap     key:    1       4     |  5 <-|    3       2 <- (step 4)
+    //                value:  0       1     |  2   |    3       4 --> idx = 2
+    //
+    //          step 1 : get the idx of the input from hashmap
+    //          step 2:  get the last number in the arraylist
+    //          step 3:  set the idx in the arraylist as last, list.set(last, idx)
+    //          step 4:  modify the value of last in the indx
+    //          step 5:  remove input value in the hash map and remove the last element
+    //
+    //
     public boolean remove(int val) {
         //step 1: update new map
         //		key: last   value: idx

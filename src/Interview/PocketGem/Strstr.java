@@ -1,5 +1,7 @@
 package Interview.PocketGem;
 
+import java.util.LinkedList;
+
 public class Strstr {
     //assumption: if needle == "", then reutrn 0
     // both are not null
@@ -28,4 +30,5 @@ public class Strstr {
         }
         return true;
     }
+    
 }
