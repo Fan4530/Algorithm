@@ -33,7 +33,7 @@ class ReentranQ {
                 notFull.await();
             }
             if(q.size() == 0) {
-                notEmpty.signal();
+                notEmpty.signal();//给一个不满的信号，取弄醒所有因为空而睡着的take 线程
             }
             q.offer(ele);
         } catch (InterruptedException e) {
