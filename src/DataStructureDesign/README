@@ -1,0 +1,12 @@
+系统设计类型1：
+HashMap<key, Node>
+Node: Double linkedlist
+
+然后设计的时候，先不要写的太详细，比较复杂的地方可以用伪代码先代替（或者叫API），然后再实现这些API
+
+要熟悉double linkedlist的常见的API操作
+1. delete, 5种case
+2. addToHead
+3. addToTail
+4. addBefore
+5. addAfter

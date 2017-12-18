@@ -52,14 +52,12 @@ public class SortColor {
                 swap(nums, index, right);
 				//System.out.println(nums[right]);
                 right--;// cannot let idx ++, since I am not sure what the new element is, 2 1 2 2
-
-
 			} else if (nums[index] == 0) {
             	//System.out.println(nums[left]);// here it can be 0 or 1
 				//1: any general case
 				//0: initial
                 swap(nums, index, left);
-                //System.out.println(nums[left]);// can only be zero
+                System.out.println(nums[left]);// can only be zero
                 left++;
                 index++; // must have this one,  case  0 1 2, if it swaps with itself
 				//System.out.println(nums[left]);// can only be 1 or 2, it is when left meet 1 or 2. and after swap, and plus plus
@@ -113,7 +111,7 @@ public class SortColor {
 //		System.out.println(Arrays.toString(nums));
 
 
-		int[] nums1 = {2,2,2,2,2,1,1,1,1,1, 0,0,0,0,0,0};
+		int[] nums1 = {1,1,1,1};
 		sc.sort_3_colors(nums1);
 
 
