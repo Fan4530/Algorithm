@@ -1,4 +1,4 @@
-package Java;
+package JavaAndBasicDataStructure;
 
 /**
  * Created by program on 12/8/2017.

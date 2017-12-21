@@ -1,4 +1,4 @@
-package Java;
+package JavaAndBasicDataStructure;
 
 /**
  * Created by program on 12/8/2017.
@@ -96,7 +96,7 @@ public class MyHashMap<K, V> {
         Entry<K, V> entry = entries[idx];
         // empty
         if(entry == null) {
-            entries[idx] = new Entry<K, V>(key, value);
+            entries[idx] = new Entry<>(key, value);
             size++;
             return;
         }
@@ -110,7 +110,7 @@ public class MyHashMap<K, V> {
             entry = entry.next;
         }
         size ++;
-        pre.next = new Entry<K, V>(key, value);
+        pre.next = new Entry<>(key, value);
     }
     public V remove(K key) {
         int idx = getIndex(key);
@@ -119,7 +119,7 @@ public class MyHashMap<K, V> {
             return null;
         }
         //not empty
-        Entry<K, V> dummy = new Entry<K, V>();
+        Entry<K, V> dummy = new Entry<>();
         dummy.next = entry;
         Entry<K, V> pre = dummy;
         V res = null;
@@ -151,11 +151,8 @@ public class MyHashMap<K, V> {
                 map.put("zhangfan", 1);
             }
         };
-        Thread t2 = new Thread(){
-            public void run() {
-                map.put("zhangfan", 2);
-            }
-        };
+        Thread t2 = new Thread(() -> map.put("zhangfan", 2));
+
         Thread t3 = new Thread(){
             public void run() {
                 map.get("zhangfan");

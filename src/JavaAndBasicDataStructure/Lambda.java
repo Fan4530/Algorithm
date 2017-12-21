@@ -1,9 +1,6 @@
-package Java;
+package JavaAndBasicDataStructure;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.PriorityQueue;
+import java.util.*;
 
 /**
  * Created by program on 10/19/2017.
@@ -39,7 +36,7 @@ public class Lambda {
         Arrays.sort(sArr, (Short i1, Short i2) -> i2 - i1);
         PriorityQueue<Short> minHeap = new PriorityQueue<>(11, (Short i1, Short i2) ->
             {
-                if(i1 == i2) {
+                if(Objects.equals(i1, i2)) {
                     return 0;
                 }
                 return i1 > i2 ? 1 : -1;
