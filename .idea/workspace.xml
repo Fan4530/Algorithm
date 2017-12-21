@@ -1,238 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e89c56c2-3bc5-4d2e-a812-536fe5225da3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ClassicalProblemPracticeMore/BackTracking/LetterCombinationOfNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ClassicalProblemPracticeMore/BackTracking/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/DynamicProgram/Match/RegularExpressionMatching.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/LinkeList/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/PartitionK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interview/Uber/DriverAtSameTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interview/Uber/PatternOrder.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/BackTrack/BackTracking.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Jingchi/Square.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Jingchi/coins.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Flower.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/IntegerFactorial.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Intersection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Isomophic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Linkedin1/NumberOfIsland.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/LongestCommonPrefix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/MaxStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/MaxSubarray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/MeetingRoom.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/MinimumSubstring.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/MinimumWindw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/NestedInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/NestedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Partition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/PermutationII.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Polish.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/PolishNotation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Pow.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Power.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/RandomizedSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/RepeatedDNA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/SearchRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/SearchRotateArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/Serilize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/SparseMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/TextJustification.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/ThreePointers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/ValidNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/WordDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/ZigZagBinaryTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/printHouse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Linkedin/wordLaddee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/Alien.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/BitOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/FirstMissingPositive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/KthLargestEle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/LCA_BT_BST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/LongestPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/MaxProductSubArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/MeetingRoom12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/PathMaxTree12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/RPG_bag$ItemInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/RPG_bag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/ReverseWordsInString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/ShortestPalindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/SlidingWindowSmallest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/SortColor$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/SortColor$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/SortColor$Colors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/SortColor$Pixel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/SortColor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/Strstr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/TopKFreqElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/TwoSumInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/TwoThreeFourSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/UndirectedGraphNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/UpdateQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/UpdateQueryNaive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/VerticalTreePrint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/WordBreak12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/caculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/class_test$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/class_test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/contains_duplicates3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/graph_clone.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/in_order_successor$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/in_order_successor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/len2duplicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/longest_consecutive_sequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/longest_increasing_subsequence.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/openDoor$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/openDoor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/parse_json$JSONString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/parse_json$Json.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/parse_json.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/parse_tenary$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/parse_tenary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/partion_nums.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/path_sum_with_path$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/path_sum_with_path$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/path_sum_with_path.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/regex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/resevorw_sampling.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/reverse_words.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/sort_n_colors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/string_subset$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/string_subset$UnionFind.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/string_subset.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/subset.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/subset_iterator$iterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/subset_iterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/tree2stringparethesis.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/tree2strstr2tree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/tree_generic$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/tree_generic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/triangle$Point.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/triangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/update_query_segment$NumArrayTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/update_query_segment$SegmentTreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/PocketGem/update_query_segment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/RiotGame$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/RiotGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/riot$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/riot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/riote2$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/riote2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/Riot/test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/test/fortest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/twitter/Apache$Parse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/twitter/Apache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Interview/twitter/twitter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/PracticeMore/Alien.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/PracticeMore/EachElementAtItsPosition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/fortest$TreeNode.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/DynamicProgram/BackTrack/BackTracking.java" afterPath="$PROJECT_DIR$/src/Algorithm/DynamicProgram/BackTrack/BackPack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Jingchi/Calculator.java" afterPath="$PROJECT_DIR$/src/Interview/Jingchi/Calculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Jingchi/Square.java" afterPath="$PROJECT_DIR$/src/Interview/Jingchi/Square.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Jingchi/coins.java" afterPath="$PROJECT_DIR$/src/Interview/Jingchi/coins.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Flower.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Flower.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/IntegerFactorial.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/IntegerFactorial.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Intersection.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Intersection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Isomophic.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Isomophic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Linkedin1/NumberOfIsland.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/NumberOfIsland.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/LongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/LongestCommonPrefix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/MaxStack.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/MaxStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/MaxSubarray.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/MaxSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/MeetingRoom.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/MeetingRoom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/MinimumSubstring.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/MinimumSubstring.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/MinimumWindw.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/MinimumWindw.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/NestedList.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/NestedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Partition.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Partition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/PartitionK.java" afterPath="$PROJECT_DIR$/src/Algorithm/ClassicalProblemPracticeMore/Anagrams/README" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Permutation.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Permutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/PermutationII.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/PermutationII.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Polish.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Polish.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/PolishNotation.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/PolishNotation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Pow.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Pow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Power.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Power.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/RandomizedSet.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/RandomizedSet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/RepeatedDNA.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/RepeatedDNA.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Search2D.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Search2D.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/SearchRange.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/SearchRange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/SearchRotateArray.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/SearchRotateArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/Serilize.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/Serilize.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/SparseMatrix.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/SparseMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/TextJustification.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/TextJustification.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/ThreePointers.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/ThreePointers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/TreeNode.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/TreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/ValidNumber.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/ValidNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/WordDistance.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/WordDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/ZigZagBinaryTree.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/ZigZagBinaryTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/printHouse.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/printHouse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Linkedin/wordLaddee.java" afterPath="$PROJECT_DIR$/src/Interview/Linkedin/wordLaddee.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/Alien.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/Alien.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/BitOperation.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/BitOperation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/FirstMissingPositive.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/FirstMissingPositive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/KthLargestEle.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/KthLargestEle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/LCA_BT_BST.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/LCA_BT_BST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/LongestPalindrome.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/LongestPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/MaxProductSubArray.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/MaxProductSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/MeetingRoom12.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/MeetingRoom12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/PathMaxTree12.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/PathMaxTree12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/RPG_bag.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/RPG_bag.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/ReverseWordsInString.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/ReverseWordsInString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/ShortestPalindrome.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/ShortestPalindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/SlidingWindowSmallest.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/SlidingWindowSmallest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/SortColor.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/SortColor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/Strstr.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/Strstr.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/TopKFreqElement.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/TopKFreqElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/TreeNode.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/TreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/TwoThreeFourSum.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/TwoThreeFourSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/UpdateQuery.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/UpdateQuery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/VerticalTreePrint.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/VerticalTreePrint.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/WordBreak12.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/WordBreak12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/caculator.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/caculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/class_test.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/class_test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/contains_duplicates3.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/contains_duplicates3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/graph_clone.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/graph_clone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/in_order_successor.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/in_order_successor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/len2duplicate.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/len2duplicate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/longest_consecutive_sequence.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/longest_consecutive_sequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/longest_increasing_subsequence.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/longest_increasing_subsequence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/openDoor.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/openDoor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/parse_json.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/parse_json.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/parse_tenary.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/parse_tenary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/partion_nums.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/partion_nums.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/path_sum_with_path.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/path_sum_with_path.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/regex.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/regex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/resevorw_sampling.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/resevorw_sampling.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/reverse_words.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/reverse_words.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/sort_n_colors.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/sort_n_colors.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/string_subset.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/string_subset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/subset.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/subset.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/subset_iterator.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/subset_iterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/tree2stringparethesis.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/tree2stringparethesis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/tree2strstr2tree.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/tree2strstr2tree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/tree_generic.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/tree_generic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/triangle.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/triangle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/PocketGem/update_query_segment.java" afterPath="$PROJECT_DIR$/src/Interview/PocketGem/update_query_segment.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Riot/RiotGame.java" afterPath="$PROJECT_DIR$/src/Interview/Riot/RiotGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Riot/riot.java" afterPath="$PROJECT_DIR$/src/Interview/Riot/riot.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Riot/riote2.java" afterPath="$PROJECT_DIR$/src/Interview/Riot/riote2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Riot/test.java" afterPath="$PROJECT_DIR$/src/Interview/Riot/test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Uber/CombinationOf10Digits.java" afterPath="$PROJECT_DIR$/src/Interview/Uber/CombinationOf10Digits.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Uber/KClosestArray.java" afterPath="$PROJECT_DIR$/src/Interview/Uber/KClosestArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Uber/RateLimiter.java" afterPath="$PROJECT_DIR$/src/Interview/Uber/RateLimiter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Uber/TextSplit.java" afterPath="$PROJECT_DIR$/src/Interview/Uber/TextSplit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/Uber/Transaction.java" afterPath="$PROJECT_DIR$/src/Interview/Uber/Transaction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/test/fortest.java" afterPath="$PROJECT_DIR$/src/Interview/test/fortest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/twitter/Apache.java" afterPath="$PROJECT_DIR$/src/Interview/twitter/Apache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/Interview/twitter/twitter.java" afterPath="$PROJECT_DIR$/src/Interview/twitter/twitter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/PracticeMore/Alien.java" afterPath="$PROJECT_DIR$/src/Algorithm/ClassicalProblemPracticeMore/Alien.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Algorithm/PracticeMore/EachElementAtItsPosition.java" afterPath="$PROJECT_DIR$/src/Algorithm/ClassicalProblemPracticeMore/EachElementAtItsPosition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/TinyURL.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/TinyURL.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm/fortest.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/fortest.class" />
+    <list default="true" id="e89c56c2-3bc5-4d2e-a812-536fe5225da3" name="Default" comment="nothing">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fortest.java" afterPath="$PROJECT_DIR$/src/fortest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -558,6 +328,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="memo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Uber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Uber" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RateLimiter.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -979,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513661149312</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nothing">
+      <created>1513837944526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513837944526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
