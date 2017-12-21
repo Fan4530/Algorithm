@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e89c56c2-3bc5-4d2e-a812-536fe5225da3" name="Default" comment="nothing">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Trie.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/ExceptionPrac.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/Lambda.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/MyHashMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/MyHashMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/MyHashMap$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/MyHashMap$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/Java/MyHashMap.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Java/ExceptionPrac.java" afterPath="$PROJECT_DIR$/src/JavaAndBasicDataStructure/ExceptionPrac.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Java/Lambda.java" afterPath="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Lambda.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Java/MyHashMap.java" afterPath="$PROJECT_DIR$/src/JavaAndBasicDataStructure/MyHashMap.java" />
+    <list default="true" id="e89c56c2-3bc5-4d2e-a812-536fe5225da3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -781,7 +770,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513838098377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nothing">
+      <created>1513879819598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1513879819598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
