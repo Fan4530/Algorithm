@@ -1,0 +1,17 @@
+1. char array → string array:  290 word pattern
+      a. generic 的hashmap用put的性质
+2. char array → 乱序的string ？？
+3. string → string
+      a. 205. Isomorphic Strings
+      b. 用hash  + 256 直接搞定
+      c. Follow up： 一个list的string， 调用这个方法就搞定
+4.group shift    +
+      a. az → ba →  cb
+      b. offset % 26
+5. Anagrams
+      a. abc cba这种的
+      b. 单位方法   [1]hash值[2]hash array [3]sort
+      c. 然后用HashMap<Pattern String, List>搞定
+                       hash array
+                       hash value
+

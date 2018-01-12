@@ -9,8 +9,10 @@ import java.util.List;
 public class TextJustification {
 
     public static void main(String [] args) {
+
         System.out.println(fullJustify1(new String[]{"what", "must", "be", "shall","be"}, 12));
     }
+
     public static List<String> fullJustify(String[] words, int maxWidth) {
         List<String> lines = new ArrayList<String>();
         // lines: res
@@ -27,6 +29,8 @@ public class TextJustification {
                 last++;// go on
             }
             StringBuilder builder = new StringBuilder();
+            //A         B           C|       D       E
+            //index                      last
             int diff = last - index - 1;// how many space area in one line
             // e.g.:  I   am    Fan
             //        idx              last    so the number of space number is: last - idx - 1
@@ -92,6 +96,8 @@ public class TextJustification {
             }
             //step 2:
             int diff = last - idx - 1;
+            //diff == 0表示一行只有一个， start  + 1 = last
+            //last == input.length表示剩下的多个单词只有一行！
             if(diff == 0 || last == input.length) {
                 for(int i = idx; i < last; i ++) {
                     sb.append(input[idx] + " ");
@@ -101,11 +107,17 @@ public class TextJustification {
                     sb.append(" ");
                 }
             } else {
+                //因为上面的count其实是一个word + 一个空格的长度， 所以最后要+ 1
                 int spaceLen = (maxWidth - count) / diff + 1;
+                // 除了以后还有余数，补到左边
                 int r = (maxWidth - count) % diff;// r means from rth space, we need to add space + 1 spaces
+                //开始添加word和空格，从idx开始，一直到last - 1
                 for(int i = idx; i < last; i ++) {
+                    //先加一个字
                     sb.append(input[i]);
+                    //然后看是要加spaceLne 个还是加spaceLne + 1个
                     int upperBound = spaceLen + ((i - idx) < r ? 1 : 0);
+                    //最后一个word是不加space的
                     if(i < last - 1) {
                         for(int j = 0; j < upperBound; j ++) {
                             sb.append(" ");
