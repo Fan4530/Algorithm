@@ -8,6 +8,7 @@ public class Increasing {
         Increasing sol = new Increasing();
         System.out.println(sol.increasing(new int[]{2,1,5,0,3}));
     }
+    //连续3个递增 O(nlogn)
     public boolean increasing(int [] nums) {
          if(nums == null || nums.length <= 2) {
              return false;
@@ -35,6 +36,7 @@ public class Increasing {
          }
          return l;
      }
+     //更好的方法O(n)
     public boolean increasingTriplet2(int[] nums) {
         if(nums == null || nums.length <= 2) {
             return false;

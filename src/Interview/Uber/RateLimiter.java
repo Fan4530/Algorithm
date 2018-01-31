@@ -94,3 +94,15 @@ class Logger {
     }
 
 }
+
+// assumption: 100 requests per second
+
+
+// class: name, timestamp, times
+//
+// HashMap<Node, TotalsNumber>
+// Queue: Node
+// when a node comes, poll the node, if its timestamp is not good
+//
+//
+

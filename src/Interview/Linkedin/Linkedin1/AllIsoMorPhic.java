@@ -18,6 +18,7 @@ public class AllIsoMorPhic {
         list.add("lpp");
         list.add("o1p");
         System.out.println(sol.group(list));
+        System.out.println(Integer.parseInt("null"));
     }
 
     public boolean isIsomorphic(String s, String t) {
