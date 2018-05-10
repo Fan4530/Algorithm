@@ -18,6 +18,9 @@ import java.util.Map;
         // map: equals, hashcode都需要O(m), 空间更糟糕
 //Implementation:
     //1. hashmap
+    //  trie Node is a tree node
+    //  *** key: is the edge
+    //      value: trie Node
     //2. array
 //class TrieNode {
 //    boolean isWord;
@@ -40,7 +43,7 @@ public class Trie {
         sol.insert(root, "gec");
         sol.insert(root, "ged");
         sol.insert(root, "laoge");
-        System.out.println(sol.findAllWithPrefix(root, "ge"));
+        System.out.println(sol.findAllWithPrefix(root, "geaa"));
         System.out.println(sol.search(root, "zhangfan"));
         sol.delete(root, "zhangfan");
         System.out.println(sol.search(root, "zhangfan"));
@@ -131,6 +134,9 @@ public class Trie {
             char c = prefix.charAt(i);
             sb.append(c);
             TrieNode next = cur.children.get(c);
+            if(next == null) {
+                return res;
+            }
             cur = next;
         }
         findAllWithPrefixDFS(res, sb, cur);
