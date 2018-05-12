@@ -1,4 +1,4 @@
-package PracticeInterview.Google;
+package PracticeInterview.Google.easy;
 
 //第四轮, 两个字符串, 一个字符串比另一个多一个字母, 其余出现顺序相同,返回那个字母,
 //        follow up: 出现顺序不一定相同, 返回那个字母,

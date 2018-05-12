@@ -1,0 +1,16 @@
+Preorder + inorder  -> binary tree 【唯一确定】
+Preorder + postorder  --> binary tree 【不唯一， 除非所有的节点都有left】
+inorder + postorder -> bianry tree 【唯一确定】
+
+【以上三个都是一样的套路，找断点】
+Levelorder --> complete binary tree 【唯一确定】
+
+
+levelorder --> BST   (BFS + MIN MAX) 【不唯一确定，除非要求尽量紧凑】
+
+preorder -> BST (找断点) 【有更好的方法可以研究一下】
+postorder -> BST (找断点)  【有更好的方法，可以研究一下】
+sorted array -> balanced BST (找断点)
+sorted array -> complete BST （分类，左孩子 + 左边部分的leaf node 数量 = 中间节点位置）
+
+

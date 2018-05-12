@@ -1,4 +1,4 @@
-package PracticeInterview.Google;
+package PracticeInterview.Google.easy;
 
 
 import java.util.*;

@@ -1,4 +1,4 @@
-package PracticeInterview.Google;
+package PracticeInterview.Google.easy;
 
 //第一轮: 印度大叔 人很好
 //定义 n-straight 指连续的n个数字, 输入是一个integer array 和n , 要求返回array 满不满足 n-straight 的要求:

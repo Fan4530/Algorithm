@@ -2,358 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e89c56c2-3bc5-4d2e-a812-536fe5225da3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/Array/test.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/LinkeList/reverseKGroup.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/AhoCorasick.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/CompleteBST.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/ContainsSubArraylist.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/DifferentSymbol.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/FindCharInLargerStr.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/FourPointsRectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/LowestCommonRabbit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/NStraight.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBinaryTree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/PostInorder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/PreInrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/PreToBST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/SortedArrayToCompleteBST.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/easy/DoubleLinkedNodeGroup.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/medium/OnlineCalculator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PracticeInterview/TreeNode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/TreeNode.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Array/RomanNameSort.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Array/RomanNameSort.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/BestFirstSearch/PointHeap$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/BestFirstSearch/PointHeap$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/BestFirstSearch/PointHeap$Point.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/BestFirstSearch/PointHeap$Point.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/BestFirstSearch/PointHeap.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/BestFirstSearch/PointHeap.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/ClassicalProblemPracticeMore/Alien.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/ClassicalProblemPracticeMore/Alien.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/ClassicalProblemPracticeMore/BackTracking/LetterCombinationOfNumber.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/ClassicalProblemPracticeMore/BackTracking/LetterCombinationOfNumber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/ClassicalProblemPracticeMore/EachElementAtItsPosition.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/ClassicalProblemPracticeMore/EachElementAtItsPosition.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Bipartile.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Bipartile.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Clone.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Clone.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/CloneRandom.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/CloneRandom.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/FormARingWithWords.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/FormARingWithWords.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/GraphNode.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/GraphNode.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/IP.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/IP.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Matrix01.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Matrix01.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/NQuee.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/NQuee.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/PacificWater.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/PacificWater.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Permutation.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/Permutation.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/RandomListNode.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/RandomListNode.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/UndirectedGraphNode.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/UndirectedGraphNode.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/WordBreakII.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DFS/WordBreakII.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/BackTrack/BackPack.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/BackTrack/BackPack.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/DictionaryWordI.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/DictionaryWordI.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/LongestIncreasingSubsequence.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/LongestIncreasingSubsequence.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/Match/RegularExpressionMatching.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/Match/RegularExpressionMatching.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/SelectProblem/DeleteAndEarn.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/SelectProblem/DeleteAndEarn.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/SelectProblem/Movie.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/DynamicProgram/SelectProblem/Movie.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KSmallesInUnsortedArray$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KSmallesInUnsortedArray$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KSmallesInUnsortedArray.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KSmallesInUnsortedArray.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestNumbeInSortedMatrix$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestNumbeInSortedMatrix$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestNumbeInSortedMatrix$Point.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestNumbeInSortedMatrix$Point.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestNumbeInSortedMatrix.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestNumbeInSortedMatrix.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestSumInTwoSortedArrays$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestSumInTwoSortedArrays$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestSumInTwoSortedArrays$Sum.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestSumInTwoSortedArrays$Sum.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestSumInTwoSortedArrays.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/KthSmallestSumInTwoSortedArrays.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/TopKFrequency$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/TopKFrequency$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/TopKFrequency.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/TopKFrequency.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/test.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/test.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/test2.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Algorithm/Heap/test2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/BoundedArrayBlockingQueue$BoundedBuffer.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/BoundedArrayBlockingQueue$BoundedBuffer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/BoundedArrayBlockingQueue.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/BoundedArrayBlockingQueue.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ConcurHashMap.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ConcurHashMap.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/DelayQueuePrac.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/DelayQueuePrac.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/MyHashMap$Node.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/MyHashMap$Node.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/MyHashMap.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/MyHashMap.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ProducerConsumer$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ProducerConsumer$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ProducerConsumer$2.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ProducerConsumer$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ProducerConsumer.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ProducerConsumer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/Q.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/Q.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentranQ.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentranQ.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentrantLockPrac$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentrantLockPrac$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentrantLockPrac$2.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentrantLockPrac$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentrantLockPrac.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ReentrantLockPrac.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/Sync.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/Sync.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ThreadPrac$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ThreadPrac$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ThreadPrac.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/ThreadPrac.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/mySyc.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Conccurency/mySyc.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/AllOone$Node.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/AllOone$Node.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/AllOone.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/AllOone.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/LRUCache$Node.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/LRUCache$Node.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/LRUCache.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/LRUCache.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/TinyURL.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/DataStructureDesign/TinyURL.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Coins.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Jingchi/Square.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Jingchi/coins.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Flower.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/IntegerFactorial.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Intersection.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Interval.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Isomophic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/AllIsoMorPhic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/GCD.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/Increasing.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/LCAParent$TreeNodeP.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/LCAParent.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/NumberOfIsland.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/OnlyApeearOne.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/ReplaceAll.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/StringSignTarget.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/caculator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Linkedin1/nextAlter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/LongestCommonPrefix.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/MaxStack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/MaxSubarray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/MeetingRoom.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/MinimumSubstring.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/MinimumWindw.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/NestedInteger.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/NestedList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Partition.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Permutation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/PermutationII.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Polish.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/PolishNotation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Pow.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Power.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/RandomizedSet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/RepeatedDNA.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/SearchRange.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/SearchRotateArray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/Serilize.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/SparseMatrix.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/TextJustification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/ThreePointers.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/ValidNumber.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/WordDistance.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/ZigZagBinaryTree.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/printHouse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Linkedin/wordLaddee.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/Alien.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/BitOperation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/FirstMissingPositive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/KthLargestEle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/LCA_BT_BST.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/LongestPalindrome.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/MaxProductSubArray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/MeetingRoom12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/PathMaxTree12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/RPG_bag$ItemInfo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/RPG_bag.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/ReverseWordsInString.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/ShortestPalindrome.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/SlidingWindowSmallest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/SortColor$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/SortColor$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/SortColor$Colors.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/SortColor$Pixel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/SortColor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/Strstr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/TopKFreqElement.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/TwoSumInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/TwoThreeFourSum.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/UndirectedGraphNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/UpdateQuery.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/UpdateQueryNaive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/VerticalTreePrint.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/WordBreak12.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/caculator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/class_test$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/class_test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/contains_duplicates3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/graph_clone.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/in_order_successor$TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/in_order_successor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/len2duplicate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/longest_consecutive_sequence.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/longest_increasing_subsequence.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/openDoor$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/openDoor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/parse_json$JSONString.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/parse_json$Json.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/parse_json.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/parse_tenary$TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/parse_tenary.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/partion_nums.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/path_sum_with_path$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/path_sum_with_path$TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/path_sum_with_path.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/regex.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/resevorw_sampling.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/reverse_words.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/sort_n_colors.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/string_subset$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/string_subset$UnionFind.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/string_subset.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/subset.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/subset_iterator$iterator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/subset_iterator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/tree2stringparethesis.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/tree2strstr2tree.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/tree_generic$TreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/tree_generic.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/triangle$Point.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/triangle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/update_query_segment$NumArrayTree.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/update_query_segment$SegmentTreeNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/PocketGem/update_query_segment.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/RiotGame$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/RiotGame.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/riot$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/riot.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/riote2$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/riote2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Riot/test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/CityTemperature$Point.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/CityTemperature.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/CombinationOf10Digits.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/DriverAtSameTime$Interval.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/DriverAtSameTime.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/Logger.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/LongestIncreasing$Point.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/LongestIncreasing.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/PatternOrder.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/Pi.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/Rate$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/Rate.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/RateLimiter$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/RateLimiter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/ReorderLetter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/TextSplit.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/Transaction.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/UnionAndIntersection$Interval.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/UnionAndIntersection.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/WaterPool$Point.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/Uber/WaterPool.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/test/fortest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/twitter/Apache$Parse.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/twitter/Apache.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Interview/twitter/twitter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/ExceptionPrac.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/ExceptionPrac.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/Lambda.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/Lambda.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap$1.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap$2.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap$Entry.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap$Entry.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/MyHashMap.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/Trie$TrieNode.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/Trie$TrieNode.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/Trie.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/JavaAndBasicDataStructure/Trie.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Search2D.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/Search2D.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/fortest.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/fortest.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/memo/fortest$TreeNode.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/memo/fortest$TreeNode.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/memo/fortest.class" afterPath="$PROJECT_DIR$/out/production/Algorithm/memo/fortest.class" />
-      <change beforePath="$PROJECT_DIR$/src/Conccurency/ProducerConsumer.java" afterPath="$PROJECT_DIR$/src/Conccurency/ProducerConsumer.java" />
-      <change beforePath="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Trie.java" afterPath="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Trie.java" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Coins.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Jingchi/Calculator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Jingchi/Square.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Jingchi/coins.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Riot/RiotGame.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Riot/riot.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Riot/riote2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/Riot/test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/CityTemperature.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/CombinationOf10Digits.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/DriverAtSameTime.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/LongestIncreasing.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/PatternOrder.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/Pi.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/Rate.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/RateLimiter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/ReorderLetter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/TextSplit.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/Transaction.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/UnionAndIntersection.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/fineb/WaterPool.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Flower.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/IntegerFactorial.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Intersection.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Isomophic.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/AllIsoMorPhic.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/GCD.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/Increasing.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/LCAParent.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/NumberOfIsland.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/OnlyApeearOne.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/ReplaceAll.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/StringSignTarget.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/caculator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Linkedin1/nextAlter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/LongestCommonPrefix.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/MaxStack.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/MaxSubarray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/MeetingRoom.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/MinimumSubstring.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/MinimumWindw.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/NestedList.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Partition.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/PartitionK.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Permutation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/PermutationII.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Polish.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/PolishNotation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Pow.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Power.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/RandomizedSet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/RepeatedDNA.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Search2D.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/SearchRange.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/SearchRotateArray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/Serilize.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/SparseMatrix.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/TextJustification.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/ThreePointers.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/TreeNode.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/ValidNumber.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/WordDistance.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/ZigZagBinaryTree.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/printHouse.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/liyi/wordLaddee.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/Alien.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/BitOperation.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/FirstMissingPositive.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/KthLargestEle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/LCA_BT_BST.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/LongestPalindrome.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/MaxProductSubArray.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/MeetingRoom12.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/PathMaxTree12.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/RPG_bag.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/ReverseWordsInString.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/ShortestPalindrome.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/SlidingWindowSmallest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/SortColor.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/Strstr.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/TopKFreqElement.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/TreeNode.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/TwoThreeFourSum.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/UpdateQuery.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/VerticalTreePrint.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/WordBreak12.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/caculator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/class_test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/contains_duplicates3.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/graph_clone.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/in_order_successor.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/len2duplicate.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/longest_consecutive_sequence.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/longest_increasing_subsequence.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/openDoor.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/parse_json.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/parse_tenary.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/partion_nums.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/path_sum_with_path.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/regex.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/resevorw_sampling.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/reverse_words.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/sort_n_colors.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/string_subset.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/subset.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/subset_iterator.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/tree2stringparethesis.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/tree2strstr2tree.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/tree_generic.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/triangle.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/pg/update_query_segment.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/test/fortest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/tt/Apache.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Practical/tt/twitter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/CompleteBST.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/ContainsSubArraylist.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/DifferentSymbol.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/FindCharInLargerStr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/FourPointsRectangle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/LowestCommonRabbit.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/NStraight.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/PrePost.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/PracticeInterview/Google/TreeNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java" afterPath="$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/AhoCorasick.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/hard/AhoCorasick.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/CompleteBST.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/medium/CompleteBST.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/ContainsSubArraylist.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/easy/ContainsSubArraylist.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/DifferentSymbol.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/easy/DifferentSymbol.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/FindCharInLargerStr.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/easy/FindCharInLargerStr.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/FourPointsRectangle.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/medium/FourPointsRectangle.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/LowestCommonRabbit.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/medium/LowestCommonRabbit.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/NStraight.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/easy/NStraight.java" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java" afterPath="$PROJECT_DIR$/src/PracticeInterview/Google/medium/PrePost.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -364,15 +44,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algorithm$BackTracking.coverage" NAME="BackTracking Coverage Results" MODIFIED="1508791609818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>DynamicProgram.BackTrack.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Algorithm$CompleteBST.coverage" NAME="CompleteBST Coverage Results" MODIFIED="1525934680143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>PracticeInterview.Google.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Algorithm$nextAlter.coverage" NAME="nextAlter Coverage Results" MODIFIED="1515786121559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Interview.Linkedin.Linkedin1.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Algorithm$LRUCache.coverage" NAME="LRUCache Coverage Results" MODIFIED="1513560612121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>DataStructureDesign.*</FILTER>
     </SUITE>
@@ -387,11 +58,23 @@
     <SUITE FILE_PATH="coverage/Algorithm$AutocompleteSystem.coverage" NAME="AutocompleteSystem Coverage Results" MODIFIED="1517449770659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Interview.Uber.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$BackTracking.coverage" NAME="BackTracking Coverage Results" MODIFIED="1508791609818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DynamicProgram.BackTrack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$CompleteBST.coverage" NAME="CompleteBST Coverage Results" MODIFIED="1525934680143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticeInterview.Google.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithm$nextAlter.coverage" NAME="nextAlter Coverage Results" MODIFIED="1515786121559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Interview.Linkedin.Linkedin1.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Algorithm$WaterPool.coverage" NAME="WaterPool Coverage Results" MODIFIED="1517438346616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Interview.Uber.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Algorithm$test.coverage" NAME="test Coverage Results" MODIFIED="1508636896144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Algorithm$fortest__1_.coverage" NAME="fortest (1) Coverage Results" MODIFIED="1513368713710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Algorithm$Ways.coverage" NAME="Ways Coverage Results" MODIFIED="1526160969421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticeInterview.Google.medium.*</FILTER>
+    </SUITE>
   </component>
   <component name="CoverageViewManager">
     <option name="myAutoScrollToSource" value="true" />
@@ -401,117 +84,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContainsSubArraylist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/ContainsSubArraylist.java">
+      <file leaf-file-name="Ways.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="531">
+              <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+              <folding>
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/OnlineCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DifferentSymbol.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/DifferentSymbol.java">
+      <file leaf-file-name="FourPointsRectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/FourPointsRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-841">
-              <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="577">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LowestCommonRabbit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/LowestCommonRabbit.java">
+        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/LowestCommonRabbit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+              <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AhoCorasick.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/AhoCorasick.java">
+      <file leaf-file-name="SortedArrayToCompleteBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/SortedArrayToCompleteBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="102">
+              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompleteBST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/CompleteBST.java">
+      <file leaf-file-name="PostInorder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PostInorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
-              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="70" selection-end-column="5" />
-              <folding>
-                <element signature="e#1804#1805#0" expanded="true" />
-                <element signature="e#1861#1862#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <file leaf-file-name="LevelToBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="462" column="28" lean-forward="true" selection-start-line="462" selection-start-column="28" selection-end-line="462" selection-end-column="28" />
-              <folding>
-                <element signature="e#17923#17924#0" expanded="true" />
-                <element signature="e#18006#18007#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StrictMath.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StrictMath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="388" column="26" lean-forward="false" selection-start-line="388" selection-start-column="26" selection-end-line="388" selection-end-column="26" />
-              <folding>
-                <element signature="e#14017#14018#0" expanded="true" />
-                <element signature="e#14071#14072#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="4307" column="30" lean-forward="false" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
-              <folding>
-                <element signature="e#200641#200642#0" expanded="true" />
-                <element signature="e#200682#200683#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="PrePost.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-314">
-              <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrePost.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java">
+      <file leaf-file-name="LevelToBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -562,37 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java/MyHashMap.java" />
-        <option value="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Trial.java" />
-        <option value="$PROJECT_DIR$/src/JavaAndBasicDataStructure/MyHashMap.java" />
-        <option value="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Lambda.java" />
-        <option value="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/TextJustification.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/OnlyApeearOne.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/GCD.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/LCAParent.java" />
-        <option value="$PROJECT_DIR$/src/fortest.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/nextAlter.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/caculator.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/StringSignTarget.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/ReplaceAll.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/AllIsoMorPhic.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/NumberOfIsland.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Linkedin/Linkedin1/Increasing.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/Rate.java" />
-        <option value="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/CityTemperature.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Sets.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Coins.java" />
-        <option value="$PROJECT_DIR$/src/CS561/Minmax.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/TextSplit.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/LongestIncreasing.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/UnionAndIntersection.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/Pi.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/WaterPool.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/Auto.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/AutocompleteSystem.java" />
-        <option value="$PROJECT_DIR$/src/Interview/Uber/RateLimiter.java" />
         <option value="$PROJECT_DIR$/src/Interview/Uber/Road.java" />
         <option value="$PROJECT_DIR$/src/Interview/Uber/ReorderLetter.java" />
         <option value="$PROJECT_DIR$/src/Interview/Uber/PatternOrder.java" />
@@ -602,7 +231,6 @@
         <option value="$PROJECT_DIR$/src/Conccurency/ProducerConsumer.java" />
         <option value="$PROJECT_DIR$/src/PracticeInterview/Google/ContainsSubArraylist.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/SlidingWindows/ContainsSubArraylist.java" />
-        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/FourPointsRectangle.java" />
         <option value="$PROJECT_DIR$/src/JavaAndBasicDataStructure/Trie.java" />
         <option value="$PROJECT_DIR$/src/PracticeInterview/Google/NStraight.java" />
         <option value="$PROJECT_DIR$/src/PracticeInterview/Google/FindCharInLargerStr.java" />
@@ -612,7 +240,39 @@
         <option value="$PROJECT_DIR$/src/PracticeInterview/Google/AhoCorasick.java" />
         <option value="$PROJECT_DIR$/src/PracticeInterview/Google/CompleteBST.java" />
         <option value="$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/CompleteBST.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/README" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/DoubleLinkedNodeGroup.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/google_onsite_2018_3_31/google_onsite" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/google_onsite_2018_3_31/onlineCalculator.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/google_onsite_2018_3_31/OnlineCalculator.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/OnlineCalculator.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/OnlineCalculator.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/CompleteBST.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/PrePost.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/easy/DoubleLinkedNodeGroup.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/easy/FindCharInLargerStr.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/easy/DifferentSymbol.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/FourPointsRectangle.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/LowestCommonRabbit.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/easy/NStraight.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/easy/ContainsSubArraylist.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/onsite_March" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/PreInrder.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/PreToBST.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/SortedArrayToCompleteBST.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/PostInorder.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBST.java" />
         <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java" />
+        <option value="$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/FourPointsRectangle.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/onsite_3_31" />
+        <option value="$PROJECT_DIR$/src/PracticeInterview/Google/onsite_4_3" />
       </list>
     </option>
   </component>
@@ -684,27 +344,6 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="ConstructTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="ConstructTree" type="462c0819:PsiDirectoryNode" />
-              <item name="PrePost.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaAndBasicDataStructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PracticeInterview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -720,7 +359,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PracticeInterview" type="462c0819:PsiDirectoryNode" />
               <item name="Google" type="462c0819:PsiDirectoryNode" />
-              <item name="PrePost.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="Google" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -745,13 +400,15 @@
       <recent name="C:\go\src\Algorithm\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PracticeInterview.Google.medium" />
+      <recent name="PracticeInterview" />
+      <recent name="Algorithm.ConstructTree" />
       <recent name="PracticeInterview.Google" />
       <recent name="Interview.Linkedin.Linkedin1" />
-      <recent name="Java" />
-      <recent name="BasicMethod" />
-      <recent name="Assignment4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/PracticeInterview/Google/hard" />
+      <recent name="$PROJECT_DIR$/src/PracticeInterview/Google" />
       <recent name="C:\go\src\Algorithm\src\Interview\Linkedin" />
     </key>
   </component>
@@ -767,7 +424,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrePost">
+  <component name="RunManager" selected="Application.Ways">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -775,14 +432,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CompleteBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DoubleLinkedNodeGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="PracticeInterview.Google.*" />
+          <option name="PATTERN" value="PracticeInterview.Google.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.CompleteBST" />
+      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.easy.DoubleLinkedNodeGroup" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -794,14 +451,14 @@
       <module name="Algorithm" />
       <envs />
     </configuration>
-    <configuration name="DifferentSymbol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LevelToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="PracticeInterview.Google.*" />
+          <option name="PATTERN" value="Algorithm.ConstructTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.DifferentSymbol" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.ConstructTree.LevelToBST" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -813,33 +470,14 @@
       <module name="Algorithm" />
       <envs />
     </configuration>
-    <configuration name="FindCharInLargerStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OnlineCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="PracticeInterview.Google.*" />
+          <option name="PATTERN" value="PracticeInterview.Google.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.FindCharInLargerStr" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="LowestCommonRabbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="PracticeInterview.Google.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.LowestCommonRabbit" />
+      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.medium.OnlineCalculator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -854,11 +492,30 @@
     <configuration name="PrePost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="PracticeInterview.Google.*" />
+          <option name="PATTERN" value="PracticeInterview.Google.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.PrePost" />
+      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.medium.PrePost" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="Ways" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PracticeInterview.Google.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="PracticeInterview.Google.medium.Ways" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1082,19 +739,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FindCharInLargerStr" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DifferentSymbol" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LowestCommonRabbit" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CompleteBST" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PrePost" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PrePost" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LevelToBST" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DoubleLinkedNodeGroup" />
+      <item index="3" class="java.lang.String" itemvalue="Application.OnlineCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Ways" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PrePost" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CompleteBST" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LowestCommonRabbit" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DifferentSymbol" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindCharInLargerStr" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Ways" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OnlineCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DoubleLinkedNodeGroup" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LevelToBST" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PrePost" />
       </list>
     </recent_temporary>
   </component>
@@ -1179,11 +836,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.209826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21176471" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15567766" sideWeight="0.5050505" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5103627" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25281474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16788767" sideWeight="0.7318653" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21916972" sideWeight="0.7318653" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.48963732" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24155578" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1195,9 +854,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.4949495" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1662,43 +1319,81 @@
           <option name="timeStamp" value="370" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/FourPointsRectangle.java</url>
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/FourPointsRectangle.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="374" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/LowestCommonRabbit.java</url>
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/LowestCommonRabbit.java</url>
           <line>68</line>
           <properties />
           <option name="timeStamp" value="375" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/AhoCorasick.java</url>
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/hard/AhoCorasick.java</url>
           <line>16</line>
           <properties />
           <option name="timeStamp" value="376" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/CompleteBST.java</url>
-          <line>37</line>
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/CompleteBST.java</url>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="380" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java</url>
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/PrePost.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="385" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java</url>
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/PrePost.java</url>
           <line>65</line>
           <properties />
           <option name="timeStamp" value="386" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBST.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/easy/DoubleLinkedNodeGroup.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/OnlineCalculator.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java</url>
+          <line>101</line>
+          <properties class="PracticeInterview.Google.medium.Ways">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="387" />
+      <option name="time" value="402" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1713,6 +1408,41 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i &lt; h - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>h</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dp2[i + 1][j - 1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getVal(dp1, dp2, i + 1, j - 1, h)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>level[p] &gt; node.min</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>level[p] &lt; node.node.val</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>(postIdx - postl) + prel</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -1722,60 +1452,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>(int)Math.pow(2, h - 1) - 1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Math.log(right - left + 1) / Math.log(2)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>left</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>right</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(int)Math.pow(mid, 2) - 1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>set.add(new int[]{j, k})</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>new int[]{j, k}</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/ReplaceAll.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/OnlyApeearOne.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/NumberOfIsland.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/GCD.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/Increasing.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/LCAParent.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/nextAlter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/caculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/liyi/Linkedin1/AllIsoMorPhic.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/Coins.java" />
-    <entry file="file://$PROJECT_DIR$/src/CS561/Minmax.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/pg/caculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/Practical/fineb/RateLimiter.java" />
-    <entry file="file://$PROJECT_DIR$/src/Interview/Uber/KClosestArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/Interview/Uber/AutocompleteSystem.java" />
     <entry file="file://$PROJECT_DIR$/src/Interview/Uber/Road.java" />
     <entry file="file://$PROJECT_DIR$/src/Practical/fineb/WaterPool.java" />
     <entry file="file://$PROJECT_DIR$/src/Practical/fineb/UnionAndIntersection.java" />
@@ -1866,73 +1545,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/FourPointsRectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/FindCharInLargerStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/NStraight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/DifferentSymbol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-841">
-          <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="4307" column="30" lean-forward="false" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
           <folding>
-            <element signature="e#200641#200642#0" expanded="true" />
-            <element signature="e#200682#200683#0" expanded="true" />
+            <element signature="e#200641#200642#0" expanded="false" />
+            <element signature="e#200682#200683#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/LowestCommonRabbit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/AhoCorasick.java">
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/hard/AhoCorasick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/ContainsSubArraylist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="25" column="2" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -1940,10 +1567,10 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
-          <caret line="462" column="28" lean-forward="true" selection-start-line="462" selection-start-column="28" selection-end-line="462" selection-end-column="28" />
+          <caret line="462" column="28" lean-forward="false" selection-start-line="462" selection-start-column="28" selection-end-line="462" selection-end-column="28" />
           <folding>
-            <element signature="e#17923#17924#0" expanded="true" />
-            <element signature="e#18006#18007#0" expanded="true" />
+            <element signature="e#17923#17924#0" expanded="false" />
+            <element signature="e#18006#18007#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1953,37 +1580,219 @@
         <state relative-caret-position="78">
           <caret line="388" column="26" lean-forward="false" selection-start-line="388" selection-start-column="26" selection-end-line="388" selection-end-column="26" />
           <folding>
-            <element signature="e#14017#14018#0" expanded="true" />
-            <element signature="e#14071#14072#0" expanded="true" />
+            <element signature="e#14017#14018#0" expanded="false" />
+            <element signature="e#14071#14072#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/CompleteBST.java">
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="70" selection-end-column="5" />
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/CompleteBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="66" column="35" lean-forward="false" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="e#1804#1805#0" expanded="true" />
-            <element signature="e#1861#1862#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#164#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/PrePost.java">
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/PrePost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="-28">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/easy/DoubleLinkedNodeGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#871#883#0" expanded="false" />
+            <element signature="e#1114#1115#0" expanded="false" />
+            <element signature="e#1152#1153#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/easy/FindCharInLargerStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/easy/DifferentSymbol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="56" lean-forward="false" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/easy/NStraight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/easy/ContainsSubArraylist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PreInrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PreToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/SortedArrayToCompleteBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PostInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/PrePost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithm/ConstructTree/LevelToBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/OnlineCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/LowestCommonRabbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/FourPointsRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/medium/Ways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+          <folding>
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/google_onsite">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/onsite_3_31">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeInterview/Google/onsite_4_3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="19" />
           <folding />
         </state>
       </provider>

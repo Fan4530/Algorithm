@@ -1,4 +1,4 @@
-package PracticeInterview.Google;
+package PracticeInterview.Google.medium;
 //class TreeNode {
 //    TreeNode left;
 //    TreeNode right;
@@ -11,6 +11,9 @@ package PracticeInterview.Google;
 //}
 
 // not a leetcode
+
+
+import PracticeInterview.TreeNode;
 
 //给你一个sorted array，让你返回一个complete BST
 // 第一步： 计算h = log2(n + 1)  不包括leaf node

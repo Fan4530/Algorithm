@@ -1,4 +1,4 @@
-package PracticeInterview.Google;
+package PracticeInterview.Google.medium;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -11,7 +11,7 @@ import java.util.Set;
 // {true, false, false, false},
 // {true, false, false, true}
 // 会return true， 因为四个顶点是true。
-//
+// 2018/5/8
 public class FourPointsRectangle {
     public static void main(String [] agrs) {
         boolean [][] matrix = new boolean[][]{{true, false, false, true}, {true, false, false, false}, {true, false, false, true}};
@@ -36,5 +36,6 @@ public class FourPointsRectangle {
         return false;
 
     }
+
 
 }

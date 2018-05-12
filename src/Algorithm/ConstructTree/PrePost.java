@@ -1,21 +1,19 @@
 package Algorithm.ConstructTree;
 
+import PracticeInterview.TreeNode;
+
 import java.util.HashMap;
 import java.util.Map;
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    public TreeNode(int val) {
-        this.val = val;
-        this.left = null;
-        this.right = null;
-    }
-}
+
 
 // not a leetcode
 // 给你一个preorder和postorder， 你能construct一个tree么？
+// 不行： 1       1
+//      /        \
+//     2          2
+//    /           \
+//    3            3
 // 假设所有的node都有left node
 public class PrePost {
 //    TreeNode root = sol(new int[]{1,2,4,5,3,6}, new int[]{4,5,2,6,3,1});

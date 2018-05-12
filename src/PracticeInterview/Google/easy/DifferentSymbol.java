@@ -1,4 +1,4 @@
-package PracticeInterview.Google;
+package PracticeInterview.Google.easy;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -6,9 +6,7 @@ import java.util.List;
 import java.util.Set;
 // 不是leetcode 题
 //
-//第四轮, 两个字符串, 一个字符串比另一个多一个字母, 其余出现顺序相同,返回那个字母,
-//follow up: 出现顺序不一定相同, 返回那个字母,
-//follow up: 如果字符串特别大, 怎么办?
+//  [2,3] k = 3, 返回(0, 0, 1) (0, 1, 1) (1, 1,1) 一系列index
 public class DifferentSymbol {
     public static void main(String[] agrs) {
         System.out.println(sol(new int[]{2, 1, 1}, 3));

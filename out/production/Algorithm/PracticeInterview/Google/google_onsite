@@ -1,0 +1,61 @@
+第一轮 国人大哥或ABC 资历非常老。上来先问了有关Java HashMap如何存贮一个自定义的class的问题。
+比如需要实现什么方法之类的。
+
+第一题，给定一个输入的Double LinkedList，另一个输入的List<LinkedListNode>。
+问输入的这些Node能构成几个group。group的定义是group内的node是相邻的。
+例如给定输入双链表`1<->2<->3<->4`和`[1,3,4]`。则里面存在两个group:{1}和{3,4}。
+【已写代码】DoubleNode
+
+第二题国际象棋中的马，给定其初始位置和可以走的步数。问有所走过的路径有多少种可能。
+【题目不明确】应该是用dp写
+
+第二轮 第一题 给定一个Employee类定义如下：
+class Employee {
+        int level;. 涓€浜�-涓夊垎-鍦帮紝鐙鍙戝竷
+        List<Employee> directReports;
+}
+复制代码
+要求写一个方法：
+public int party(Employee ceo) {}
+复制代码
+该方法要求得到所有能参加party的人的level之和的最大值。
+参加party的唯一限制条件是如果邀请了一个人的direct report，
+则这个人不能参加party。. from: 1point3acres.com/bbs
+【leetcode原题】
+【思路】画成一个tree， bottom to up DFS
+base case: none
+two parameters: inviteThis, notInviteThis
+for loop child
+    get two values when call itself:
+        not invite 存到第一个 list
+        invite 存到第二个 list
+inviteThis = sum of not invite
+notInviteThis = sum of max(invite, not invite)
+return invite, not invite
+
+
+第二题给定一个输入字符串例如："hello world hello hello world"，返回其中长度为1到K的单词组出现的次数。
+例如输入k=2，则应当返回"{hello:3, world:2, hello world: 2, world hello: 1, hello hello: 1}"。
+
+
+【思路】
+string [] = words
+for loop start = (0, words.length - 1):
+    for loop len = (1, K):
+        for loop: w = (start, start + len - 1)
+            map: <key : word1 + word2 + ... word_len;  value: count>
+【有什么更好的方法吗】
+
+第三轮。word cross游戏。给定输入`String[] hints, int[] lenOfWords`, 以及一个word cross board:
+   2
+   _         3
+1 _ _ _ _ _
+   _         _
+   _         _
+   _         _.
+              _.
+              _
+复制代码
+该board中包含的每一个单词的placeholder：_，以及每一个单词对应哪一行或那一列。例如本例子中第一个单词为图中第一个横行，第二个单词为图中第一个竖列，第三个单词为图中第二个竖列。每个单词的长度应当和placeholder的数目相同。同时`hints`及`lenOfWords`包含第`i`个单词的hint和长度。给定一个方法`String[] getPotentialWord(String hint, int len)`能够返回给定hint和长度的单词的可能的单词列表，要求完成`boolean isSolvable(String[] hints, int[] lenOfWords)`方法返回给定board，hints以及lenOfWord的情况下当前board能否被合适的单词填满。同时还要求设计合适的数据结构存储给定问题的board以及结题需要的信息。board中两个单词相交的情况下，相交位置必须为同一个字母。.1point3acres缃�
+
+第四轮 第一题类似于48. Rotate Image。第二题要求写一个简化版的计算器，能够处理输入数字和加减的情况。用户每次能够输入`0-9,+,-,=`这几种可能的字符。要求用户每输入一个字符就做相应处理并输出结果。输出结果的方式类似于手机上的计算器的输出方式。
